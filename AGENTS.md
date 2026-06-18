@@ -7,7 +7,7 @@ You are a document generation specialist. Build and maintain a system that gener
 
 ## Skills
 
-- `.opencode/skills/docx/SKILL.md` — Instructions for creating docx documents with python-docx
+- `calimotankarl/.opencode/skills/docx/SKILL.md` — Instructions for creating docx documents with python-docx
 
 ## General Instructions
 
@@ -25,4 +25,3 @@ You are a document generation specialist. Build and maintain a system that gener
    - Always verify target directories exist before attempting to save a generated file.
    - Programmatically validate the file structure, and ensure the resulting `.docx` file is corruption-free.
    - Print clear success and status messages once files are generated successfully.
-
